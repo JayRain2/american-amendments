@@ -1,0 +1,10 @@
+.amendment {
+	z-index: 100;
+	position: relative;
+	top: 0;
+	left: 5px;
+	font-size: 40px;
+	margin: 0 20px;
+	color: white;
+	text-shadow: 0.07em 0 black, 0 0.07em black, -0.07em 0 black, 0 -0.07em black;
+}
