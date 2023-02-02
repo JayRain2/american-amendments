@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dedf15fa.css",
+    "main.js": "./static/js/main.d35f0273.js",
+    "static/media/yankee.mp3": "./static/media/yankee.08e928686e76e880f732.mp3",
+    "static/media/america.gif": "./static/media/america.02ebe3cc65fe00ea0128.gif",
+    "index.html": "./index.html",
+    "main.dedf15fa.css.map": "./static/css/main.dedf15fa.css.map",
+    "main.d35f0273.js.map": "./static/js/main.d35f0273.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dedf15fa.css",
+    "static/js/main.d35f0273.js"
+  ]
+}
