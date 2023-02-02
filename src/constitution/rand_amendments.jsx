@@ -41,8 +41,9 @@ const getRandomAmendment = () => {
 };
 
 const RandomAmendment = () => {
+	const Amendment = getRandomAmendment();
 	return (
-		<div className='amendment'>{'Amendment '+ getRandomAmendment()['Number'] + ': \n' + getRandomAmendment()['Amendment']}</div>
+		<div className='amendment'>{'Amendment '+ Amendment['Number'] + ': \n' + Amendment['Amendment']}</div>
 	)
 };
 
